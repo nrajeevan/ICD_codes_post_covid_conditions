@@ -8,4 +8,5 @@ George N. Ioannou, BMBCh, MS; Kristin Berry, PhD; Nallakkandi Rajeevan, PhD; Yul
 Lei Yan, PhD; David Bui, PhD; Francesca Cunningham, PharmD; Denise M. Hynes, MPH, PhD, RN; Mazhgan Rowneki, MPH;
 Amy Bohnert, PhD, MHS; Edward J. Boyko, MD, MPH; Theodore J. Iwashyna, MD, PhD; Matthew L. Maciejewski, PhD;
 Thomas F. Osborne, MD; Elizabeth M. Viglianti, MD, MPH, MSc; Mihaela Aslan, PhD; Grant D. Huang, MPH, PhD; and
-Kristina L. Bajema, MD, MSc
+Kristina L. Bajema, MD, MSc. https://www.acpjournals.org/doi/10.7326/M23-1394
+
